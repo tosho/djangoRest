@@ -1,2 +1,0 @@
-# djangoRest
-Django REST Framework
